@@ -30,3 +30,5 @@ gcloud container clusters create jenkins-cd \
 
 <https://cloud.google.com/docs>  
 <https://cloud.google.com/docs/ci-cd/>
+
+![drawio](./images/test.drawio.svg)
