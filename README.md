@@ -11,6 +11,10 @@ Coursera lab
 
 ## GKE
 
+`gcloud auth list`
+
+`gcloud config list project`
+
 ### Create cluster
 
 ```bash
@@ -20,4 +24,9 @@ gcloud container clusters create jenkins-cd \
   --cluster-version latest \
   --zone us-east1-d \
   --service-account "jenkins-sa@$GOOGLE_CLOUD_PROJECT.iam.gserviceaccount.com"
-  ´´´
+```
+
+### Docs
+
+<https://cloud.google.com/docs>  
+<https://cloud.google.com/docs/ci-cd/>
