@@ -10,6 +10,14 @@ List nodes
 
 `kubectl get pods`
 
+`kubectl describe pods`
+
+## Delete
+
+`kubectl delete pods/hello-pod`
+
+`curl localhost:8080`
+
 ## References
 
 <https://docs.docker.com/docker-for-windows/kubernetes/>
