@@ -9,6 +9,10 @@ Coursera lab
 
 <https://github.com/googlecodelabs/orchestrate-with-kubernetes>
 
+## Local docker desktop
+
+Activate kubernetes, and restart. Had to reset to get it working. Hanged in getting started mode.
+
 ## GKE
 
 `gcloud auth list`

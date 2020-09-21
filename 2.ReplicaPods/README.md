@@ -6,11 +6,15 @@ Deploying locally on docker desktop running kubernetes
 
 `kubectl get rc`
 
-`kubectl describe pods`
+`kubectl describe rc`
 
-`kubectl delete pods`
+## Delete
 
-`curl localhost:8080`
+`kubectl delete rc`
+
+## Update
+
+`kubectl apply -f pod.yml`
 
 ## References
 
