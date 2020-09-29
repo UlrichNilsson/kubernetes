@@ -13,6 +13,10 @@ Coursera lab
 
 Activate kubernetes, and restart. Had to reset to get it working. Hanged in getting started mode.
 
+## Kubectl
+
+`kubectl config view`
+
 ## GKE
 
 `gcloud auth list`
@@ -34,5 +38,6 @@ gcloud container clusters create jenkins-cd \
 
 <https://cloud.google.com/docs>  
 <https://cloud.google.com/docs/ci-cd/>
+<https://kubernetes.io/>
 
 ![drawio](./images/test.drawio.svg)
