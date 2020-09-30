@@ -9,6 +9,10 @@ Coursera lab
 
 <https://github.com/googlecodelabs/orchestrate-with-kubernetes>
 
+GKE examples:
+
+`git clone https://github.com/GoogleCloudPlatform/training-data-analyst`
+
 ## Local docker desktop
 
 Activate kubernetes, and restart. Had to reset to get it working. Hanged in getting started mode.
@@ -39,5 +43,9 @@ gcloud container clusters create jenkins-cd \
 <https://cloud.google.com/docs>  
 <https://cloud.google.com/docs/ci-cd/>
 <https://kubernetes.io/>
+
+#### documentation on GKE
+
+<https://cloud.google.com/kubernetes-engine/>
 
 ![drawio](./images/test.drawio.svg)
