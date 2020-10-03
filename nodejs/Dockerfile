@@ -7,6 +7,9 @@ WORKDIR /usr/src/app
 COPY package*.json ./ 
 
 RUN npm install
+
+RUN npm install express
+
 # Copy all of the app files into the image
 COPY . .
 # The default command to run when starting the container
