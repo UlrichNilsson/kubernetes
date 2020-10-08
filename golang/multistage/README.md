@@ -7,3 +7,7 @@
 `docker tag kuard gcr.io/kuar-demo/kuard-amd64:blue`
 
 `docker push gcr.io/kuar-demo/kuard-amd64:blue`
+
+`go run hello-world.go`
+
+`go build hello-world.go`
