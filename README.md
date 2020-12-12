@@ -1,5 +1,16 @@
 # kubernetes
 
+## Setting up K3S
+
+### OS
+
+<https://www.raspberrypi.org/software/operating-systems/>
+<https://ubuntu.com/download/raspberry-pi>
+
+## Setup kubernetes kluster
+
+<https://opensource.com/article/20/6/kubernetes-raspberry-pi>
+
 <https://kubernetes.io>
 
 Learning kubernetes
