@@ -58,6 +58,17 @@ To get:
 
 ### Expose Service
 
+#### LoadBalancer
+
 `kubectl expose deployment kube-verify --type=LoadBalancer --name=my-kube-verify -n kube-verify`  
 
 External IP pending... seems to be a problem
+
+##### NodePort
+
+`kubectl expose deployment kube-verify --type=NodePort --name=my-kube-verify -n kube-verify`
+
+Exposes a port on:
+
+<http://192.168.1.163:32216/>  
+<http://rp4s01:32216/>  
