@@ -47,3 +47,17 @@ Adding proxy:
 To get:
 
 `sudo curl http://localhost:8080/api/`
+
+### Commands
+
+`kubectl get nodes`  
+`kubectl get namespaces`  
+`kubectl create namespace kube-verify`  
+`kubectl get pods --all-namespaces`
+`kubectl get all -n kube-verify`  
+
+### Expose Service
+
+`kubectl expose deployment kube-verify --type=LoadBalancer --name=my-kube-verify -n kube-verify`  
+
+External IP pending... seems to be a problem
