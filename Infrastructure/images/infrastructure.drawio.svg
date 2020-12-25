@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="501px" height="111px" viewBox="-0.5 -0.5 501 111" content="&lt;mxfile host=&quot;20c761c7-cfd6-4a79-a42d-2efd30cf16a8&quot; modified=&quot;2020-12-12T15:46:42.295Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36&quot; etag=&quot;rDgnQVFc0RynI8d1IiBW&quot; version=&quot;13.6.5&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;1ZXNcoMgFIWfxr2Cse02Nmk3nenURdeMEGEGxRKspk9fEPAnJm1nmkmnLtR893K5nAMmgGnZPUhU0yeBCQ9AiLsA3gcAJKtI3w04WBCDlQWFZNiiaAQZ+yAOho42DJP9LFEJwRWr5zAXVUVyNWNIStHO03aCz2etUUEWIMsRX9JXhhW19BbcjPyRsIL6maPkzkZK5JPdSvYUYdFOENwEMJVCKPtWdinhRjuvix23PRMdGpOkUj8Z4HR/R7xxa3N9qYNfrBRNhYnJjwK4bilTJKtRbqKtdlczqkruwhjt6ZDrahOpSHe2v2hYtd4tRJREyYNO8QO85W6nRF64dtR9FTpGZ5o7iJzXxVB7lEO/OEVOqwNOqJNwPcN6J3T/ZoNxIftI8tYYz/SaYdhfU5QU5vnyHGdh5CvouW0RG/xC9vB72XeM83ToBW77a6i6kPuEKecdSI4ciJcODK5MHUguYAC8vAHgDwz41RGAx0fgmgbElzcA/jcD4iueAP1z/Pj3sck/KNx8Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="501px" height="111px" viewBox="-0.5 -0.5 501 111" content="&lt;mxfile host=&quot;20c761c7-cfd6-4a79-a42d-2efd30cf16a8&quot; modified=&quot;2020-12-24T23:20:55.555Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; etag=&quot;uhCVX7D_wOE9QxqK44aH&quot; version=&quot;13.10.0&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7VbLcpswFP0aZpqFMwgBSZaJm6SbznTqRdfXIEBTgaiQDe7XV0ISRibuazyZLMICy+dc3dfRBQK8rodnAW31meeEBVGYDwH+GERRmiB118DBADG6M0ApaG4gdAQ29CexYGjRHc1J5xlKzpmkrQ9mvGlIJj0MhOC9b1Zw5kdtoSQLYJMBW6LfaC4rg95GN0f8E6Fl5SKj1NZXgzO2lXQV5LyfQfgxwGvBuTSrelgTpnvn+mL2PZ1hp8QEaeTfbEjMhj2wna3N5iUPrljBd01OtD0K8ENfUUk2LWSa7ZW6CqtkzSydQ1dNtstkbH57IiQZZpBN7pnwmkhxUCaOdZLbk4Jc4/pj35PQYpXXcwuC1bqcfB/boRa2Iy93J3qhOylTER4KrkrSB4xxMTLpj53WTNWMw/GaQ2mpf79+iTchch62wuHoLrpG6e01UnfsaJWaiWFsfqNK+GdVCsrYekoVP43XhQRKTwSKlwJNos0FSi+gD768PtFSn7OSGLhrofG0cX5t8HtFinL7QT/0VFRVVOgtr/Rauwu191UBNWUHs035gro1WeNYa0rYnkiawYKZHC4YEBTYefsOmm7VEUELP49ufOrqLFDcDhOnjoVcAaNlY0hGCjmRW8i+l+PJXJ0UHyXJFPFkfbVUYjYRyc2s/abVfvv/R+l/0PiNjh0+fS6+5tjFlx87/D52b2rs9DF5H7vF2MWv+LZTf4/fgSM3+5jGj78A&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="500" height="110" rx="16.5" ry="16.5" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="all"/>
@@ -11,13 +11,15 @@
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 <font color="#000000">
                                     RP4S01
+                                    <br/>
+                                    192.168.1.163
                                 </font>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="110" y="54" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    RP4S01
+                    RP4S01...
                 </text>
             </switch>
         </g>
@@ -30,13 +32,20 @@
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 <font color="#000000">
                                     RP4S02
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(51 , 51 , 51) ; font-family: &quot;helvetica&quot; , &quot;arial&quot; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)">
+                                    192.168.1.157
+                                </span>
+                                <font color="#000000">
+                                    <br/>
                                 </font>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="260" y="54" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    RP4S02
+                    RP4S02...
                 </text>
             </switch>
         </g>
@@ -49,13 +58,20 @@
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 <font color="#000000">
                                     RP4S03
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(51 , 51 , 51) ; font-family: &quot;helvetica&quot; , &quot;arial&quot; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)">
+                                    192.168.1.160
+                                </span>
+                                <font color="#000000">
+                                    <br/>
                                 </font>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="410" y="54" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    RP4S03
+                    RP4S03...
                 </text>
             </switch>
         </g>
