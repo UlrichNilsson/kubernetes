@@ -6,4 +6,4 @@
 
 ## Push image to docker hub
 
-`docker push`
+`docker push ulrichnilsson/k3sutilityapi:latest`
