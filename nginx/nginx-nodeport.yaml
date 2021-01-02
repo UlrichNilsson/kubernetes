@@ -6,9 +6,9 @@ metadata:
     app: nginx
 spec:
   type: NodePort
-  - ports:
+  selector:
+    app: nginx
+  ports:
+    - port: 80
     targetPort: 80
     nodePort: 30007
-  selector:
-    run: nginx
-
