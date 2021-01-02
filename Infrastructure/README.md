@@ -1,10 +1,10 @@
 # K3S Infrastructure
 
-|Node name | OS           | HW           |
-|----------|--------------|--------------|
-|RP4S01    |Ubuntu 20.04  | RP 4 4GB     |
-|RP4S02    |Ubuntu 20.04  | RP 4 8GB     |
-|RP4S03    |Ubuntu 20.04  | RP 4 8GB     |
+|Node name | OS              | HW           |
+|----------|-----------------|--------------|
+|RP4S01    |Ubuntu 20.04 LTS | RP 4 4GB     |
+|RP4S02    |Ubuntu 20.04 LTS | RP 4 8GB     |
+|RP4S03    |Ubuntu 20.04 LTS | RP 4 8GB     |
 
 ![drawio](./images/infrastructure.drawio.svg)
 
