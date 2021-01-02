@@ -1,0 +1,20 @@
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: utilityapi-deployment
+spec:
+  selector:
+    matchLabels:
+      app: utilityapi
+  replicas: 1 # tells deployment to run 2 pods matching the template
+  template:
+    metadata:
+      labels:
+        app: utilityapi
+    spec:
+      containers:
+      - name: utilityapi
+        image: ulrichnilsson/utilityapi:latest
+        ports:
+        - containerPort: 80
+      #imagePullPolicy: Always
