@@ -1,5 +1,10 @@
 # Nginx
 
+## K3S nginx setup
+
+`sudo kubectl apply -f ./deployment.yaml`  
+`sudo kubectl apply -f ./nginx-nodeport.yaml`
+
 ## Reference
 
 <https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/>
