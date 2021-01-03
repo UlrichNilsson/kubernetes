@@ -10,6 +10,12 @@
 
 `sudo apt install nfs-common -y`
 
+### Rest nfs setup on synology nas
+
+`sudo mkdir -p /nfs/general`  
+`sudo mount 192.168.1.73:/volume1/k8s /nfs/general`  
+`touch testfrompi`  
+
 ## Applay nfs-provisioner and RBAC
 
 `kubectl apply -f ./nfs-provisioner.yaml`
