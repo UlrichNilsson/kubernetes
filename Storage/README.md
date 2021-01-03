@@ -15,6 +15,8 @@
 `sudo mkdir -p /nfs/general`  
 `sudo mount 192.168.1.73:/volume1/k8s /nfs/general`  
 `touch testfrompi`  
+`df -h`  
+<https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-20-04>
 
 ## Applay nfs-provisioner and RBAC
 
