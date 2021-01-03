@@ -12,7 +12,7 @@
 
 ## Applay nfs-provisioner and RBAC
 
-`kubectl apply -f ./test-pod.yaml`
+`kubectl apply -f ./nfs-provisioner.yml`
 
 `kubectl apply -f ./rbac.yaml`
 
