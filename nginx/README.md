@@ -29,6 +29,6 @@
 
 `kubectl get svc my-nginx`
 
-kubectl describe svc my-nginx
+`kubectl describe svc my-nginx`
 
-kubectl get ep my-nginx
+`kubectl get ep my-nginx`
